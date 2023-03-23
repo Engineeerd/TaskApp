@@ -1,0 +1,16 @@
+.task {
+  background: #F4F4F4;
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+}
+
+.task.reminder {
+  border-left: 5px solid green;
+}
