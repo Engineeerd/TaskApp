@@ -4,7 +4,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PAGE TITLE -->
-<!-- uNiQ Engineering Studios || uNiQ-Ball -->
 <div>
   <!-- COMPANY LOGO -->
   <h1  align="center"> Task App </h1>
